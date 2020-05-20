@@ -14,7 +14,7 @@ ecdsa==0.13
 enum34==1.0.4
 futures==2.2.0
 GnuPGInterface==0.3.2
-httplib2==0.9.1
+httplib2==0.18.0
 idna==2.0
 ipaddress==1.0.14
 Jinja2==2.8
